@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.data{
+  background-color: #d7e1f3;
+  border: solid 1px rgb(255, 255, 255);
+  text-align: center;
+}
+
+.header{
+  background-color: #1986ce86;
+  border: solid .5px black;
+  text-align: center;
+}
+#tableTitle{
+ text-align: center;
+}
