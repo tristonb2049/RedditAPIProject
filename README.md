@@ -1,4 +1,4 @@
-To run this application - Clone the repository to the desired location, or download the code file as a .zip, and extract to a desired location. Then, open up the project folder in visual studio code. In the console, type 'npm-start'. If any errors arrise, go into the folder and delete the package-lock.json file. Then run 'npm-install', and then after that finished, try 'npm-start' again!
+To run this application - Clone the repository to the desired location, or download the code file as a .zip, and extract to a desired location. Then, open up the project folder in visual studio code. In the console, type 'npm-start'. If any errors arrise, go into the folder and delete the package-lock.json file. Then run 'npm-install', and then after that finished, try 'npm-start' again! The default instructions below are also very thorough, if more detailed information is desired.
 
 
 
