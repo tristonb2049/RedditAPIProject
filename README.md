@@ -1,3 +1,12 @@
+To run this application - Clone the repository to the desired location, or download the code file as a .zip, and extract to a desired location. Then, open up the project folder in visual studio code. In the console, type 'npm-start'. If any errors arrise, go into the folder and delete the package-lock.json file. Then run 'npm-install', and then after that finished, try 'npm-start' again!
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
